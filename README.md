@@ -42,7 +42,8 @@ Objectives: Segment customers into distinct groups based on purchasing behaviors
 
 Requirements.txt
 
-List all dependencies.
+List all dependencies
+
 numpy
 pandas
 matplotlib
