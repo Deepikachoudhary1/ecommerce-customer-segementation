@@ -1,4 +1,6 @@
 # Ecommerce-customer-segementation
+Excited to share my latest project as a "DATA SCIENCE " intern at "ZIDIO DEVELOPMENT"
+
 E-commerce customer segmentation is a process in data science and analysis where customers are grouped based on common characteristics. This can help businesses understand their customers better and tailor their marketing strategies accordingly. Here’s a step-by-step guide to such a project, including the installation of necessary tools and detailed explanations.
 
 Step-by-Step Process
